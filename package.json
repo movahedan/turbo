@@ -28,7 +28,7 @@
 		"bun": "1.2.14",
 		"bunx": "0.1.0",
 		"chalk": "5.4.1",
-		"lefthook": "1.11.12",
+		"lefthook": "1.11.13",
 		"turbo": "2.5.3",
 		"typescript": "5.8.3"
 	},
